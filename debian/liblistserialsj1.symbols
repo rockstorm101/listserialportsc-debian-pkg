@@ -1,0 +1,3 @@
+liblistSerialsj.so.1 liblistserialsj1 #MINVER#
+ Java_processing_app_Platform_listSerialsNative@Base 1.4.0
+ Java_processing_app_Platform_resolveDeviceAttachedToNative@Base 1.4.0
